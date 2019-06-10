@@ -16,16 +16,18 @@ import { terser } from 'rollup-plugin-terser';
 
 export default {
     input: `dist/${target}/index.js`,
-    external: [ 'u2f-api'],
+    external: ['@digitalpersona/core', '@digitalpersona/services', 'u2f-api'],
     output: {
         format,
         extend: true,
-        name: npm_package_globalObject, //'dp.accessManagement',
-        file: `dist/${target}.bundles/index.${format}${minify ? '.min' : ''}.js`,
-        sourcemap: true,
+        name: npm_package_globalObject,
         globals: {
+            '@digitalpersona/core': 'dp.core',
+            '@digitalpersona/services': 'dp.services',
             'u2f-api': 'u2fApi',
-        },
+          },
+        file: `dist/${target}.bundles/index.${format}${minify ? '.min' : ''}.js`,
+        sourcemap: true
     },
     plugins: [
         node(),

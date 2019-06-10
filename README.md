@@ -1,10 +1,12 @@
-# DigitalPersona Web Access core library
+# JavaScript Client for DigitalPersona Enrollment
 
-This library provides a set of core classes and functions for the DigitalPersona Web Access.
+This library allows web browsers to enroll various authentication credentials using
+DigitalPersona Access Management services.
 
 ## [Usage](docs/usage/index.md)
 * [Details](docs/usage/details.md)
 * [Tutorial](docs/usage/tutorial.md)
+* [Examples](docs/usage/examples.md)
 * [How-to](docs/usage/how-to.md)
 * [Reference](docs/usage/reference.md)
 
@@ -17,4 +19,4 @@ This library provides a set of core classes and functions for the DigitalPersona
 * [Debugging](docs/development/debugging.md)
 * [Documenting](docs/development/documenting.md)
 
-Len-Test 01
+Len-Test: digitalpersona-enrollment 01

@@ -1,5 +1,5 @@
 let exclude = (
-    process.env.UUT
+  process.env.UUT
         ? [ 'auth', 'policy', 'secrets', 'claims', 'admin', 'enroll']
         : [])
     .filter(ex => ex !== process.env.UUT)
@@ -8,20 +8,29 @@ let exclude = (
 module.exports = function(config) {
   const args = []
 
-    config.set({
+  config.set({
     files: [
-        {pattern: 'src/**/*.ts' },
+        {pattern: '@types/WebSdk/*.js'},
+        {pattern: 'src/**/*.ts' }
     ],
     frameworks: ['jasmine', 'karma-typescript'],
     preprocessors: {
         'src/**/*.ts': ['karma-typescript']
     },
     karmaTypescriptConfig: {
-        tsconfig: 'tsconfig.test.json'
+      tsconfig: 'tsconfig.test.json',
+      bundlerOptions: {
+        resolve: {
+            alias: {
+                'WebSdk': '@types/WebSdk/index.js'
+            },
+            extensions: ['.js']
+        }
+    }
     },
-    browsers: ['Chrome' ],
+    browsers: ['Chrome'],
     customLaunchers: {
-        IE_no_addons: {  // does not work for now because one of Karma dependencies use ES6 features
+        IE_no_addons: {
           base:  'IE',
           flags: ['-extoff']
         }
