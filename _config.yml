@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 remote_theme: pmarsceill/just-the-docs
 title: ''
 search_enabled: true
+=======
+theme: jekyll-theme-cayman
+>>>>>>> feeab244abb0fc9af5d0b59856917eb32ecc2d34

@@ -5,7 +5,7 @@
 To get started, install dependencies first:
 
 ```
-cd ./core
+cd ./device-access.js
 yarn
 ```
 <a name="code"></a>

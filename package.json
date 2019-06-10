@@ -1,11 +1,11 @@
 {
-  "name": "@digitalpersona/core",
-  "globalObject": "dp.core",
+  "name": "@digitalpersona/enrollment",
+  "globalObject": "dp.enrollment",
   "version": "0.2.1",
   "publishConfig": {
     "registry": "http://localhost:4873"
   },
-  "description": "DigitalPersona Web Access Core library",
+  "description": "DigitalPersona Enrollment API",
   "author": "HID Global",
   "license": "MIT",
   "maintainers": [
@@ -16,11 +16,24 @@
   ],
   "keywords": [
     "DigitalPersona",
-    "authentication",
-    "identification",
-    "jwt",
-    "policy",
-    "claims"
+    "enrollment",
+    "password",
+    "fingerprints",
+    "card",
+    "smartcard",
+    "proximity card",
+    "contactless card",
+    "face recognition",
+    "face",
+    "u2f",
+    "fido",
+    "pin",
+    "push notifications",
+    "sms",
+    "one-time password",
+    "otp",
+    "totp",
+    "security questions"
   ],
   "module": "./dist/es5/index.js",
   "main": "./dist/es5.bundles/index.umd.js",
@@ -41,21 +54,18 @@
     "rollup": "npm run rollup-es5 && npm run rollup-es5-min && npm run rollup-es6 && npm run rollup-es6-min",
     "test": "karma start",
     "test-once": "karma start --single-run",
-    "test-private": "set UUT=private&& karma start",
-    "test-common": "set UUT=common&& karma start",
-    "local-npm": "start verdaccio",
-    "api": "npx api-extractor run --local --verbose",
-    "api-doc": "npx api-documenter markdown -i ./dist/api -o ./dist/api/doc",
+    "api": "api-extractor run --local --verbose",
+    "api-doc": "api-documenter markdown -i ./dist/api -o ./dist/api/doc",
     "prepublishOnly": "npm run build"
   },
   "dependencies": {
+    "@digitalpersona/services": "^0.2.1",
     "tslib": "^1.9.3",
     "u2f-api": "^1.0.10"
   },
   "devDependencies": {
     "@types/jasmine": "^3.3.9",
-    "@types/node": "^12.0.0",
-    "fetch-mock": "^7.3.1",
+    "@types/node": "^11.12.0",
     "jasmine": "^3.3.1",
     "jasmine-core": "^3.3.0",
     "karma": "^4.0.1",
@@ -68,7 +78,7 @@
     "rollup": "^1.6.0",
     "rollup-plugin-node-resolve": "^4.0.1",
     "rollup-plugin-terser": "^4.0.4",
-    "rollup-plugin-typescript2": "^0.21.0",
+    "rollup-plugin-typescript2": "^0.20.1",
     "terser": "^3.17.0",
     "tslint": "^5.14.0",
     "typescript": "^3.4.5"
