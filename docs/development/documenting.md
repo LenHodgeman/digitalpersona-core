@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Coding Guides
+title: Documenting
 has_toc: false
 parent: Development
 nav_order: 5
