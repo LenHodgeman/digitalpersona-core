@@ -7,7 +7,7 @@ permalink: /development
 nav_order: 3
 ---
 
-[DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Core Components / Development / Overview  
+###### [DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Core Components / Development / Overview  
 
 ![](../../docs/assets/HID-DPAM-Core.png)
 ### Development Overview

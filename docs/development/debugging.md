@@ -6,8 +6,6 @@ parent: Development
 nav_order: 4
 ---
 
-[DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Core Components / Development / Debugging  
-
 ![](../../docs/assets/HID-DPAM-Core.png)
 ### Debugging
 
