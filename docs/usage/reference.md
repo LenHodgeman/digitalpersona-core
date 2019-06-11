@@ -7,7 +7,7 @@ nav_order: 5
 ---
 [DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Core Components / Usage / Reference  
 
-![](/docs/assets/HID-DPAM Core.png)  
+![](assets/HID-DPAM-Core.png)
 ### Reference
 
 See reference documentation [here](./../../dist/api/doc/device-access.js.md).
