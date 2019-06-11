@@ -8,7 +8,7 @@ nav_order: 2
 
 [DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Core Components / Development / Building  
 
-![](/docs/assets/HID-DPAM-Core.png)
+![](../../docs/assets/HID-DPAM-Core.png)
 ### Making a build
 
 #### Installing dependencies

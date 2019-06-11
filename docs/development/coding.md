@@ -8,7 +8,7 @@ nav_order: 1
 
 [DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Core Components / Development / Coding  
 
-![](/docs/assets/HID-DPAM-Core.png)
+![](../../docs/assets/HID-DPAM-Core.png)
 ### Coding Guides
 
 The library uses TypeScript as a main language. It is transpiled to Javascript (`es5`, `es6` and `commonjs` platforms).
