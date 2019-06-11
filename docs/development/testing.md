@@ -6,6 +6,9 @@ parent: Development
 nav_order: 3
 ---
 
+[DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Core Components / Development / Testing  
+
+![](../docs/assets/HID-DPAM Core.png)  
 # Testing
 
 ## Running tests

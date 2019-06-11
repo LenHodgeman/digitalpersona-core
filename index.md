@@ -9,7 +9,7 @@ nav_order: 1
 
 ![](docs/assets/HID-DPAM Core.png)  
 
-### Core Components
+### Overview
 
 The DigitalPersona Core Components contains the core classes and functions shared by the DigitalPersona Access Management APIs.
 
@@ -19,7 +19,7 @@ To view the digitalpersona-core repo, click the following link.
 
 [Digitalpersona Core Components Repo](https://lenhodgeman.github.io/digitalpersona-core/)
 
-To view documentation on how to use the components, click on the following links.
+To view documentation on how to use the components, click on these links.
 
 #### [Usage](docs/usage/index.md)
 * [Details](docs/usage/details.md)

@@ -5,7 +5,9 @@ has_toc: false
 parent: Usage
 nav_order: 3
 ---
+[DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Core Components / Usage / Examples  
 
+![](/docs/assets/HID-DPAM Core.png)  
 ### Examples
 
 #### Build examples
