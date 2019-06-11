@@ -7,7 +7,7 @@ nav_order: 1
 
 [DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Core Components / Overview  
 
-![](docs/assets/HID-DPAM Core.png)  
+![](docs/assets/HID-DPAM-Core.png)  
 
 ### Overview
 
@@ -37,4 +37,4 @@ To view documentation on how to use the components, click on these links.
 * [Debugging](docs/development/debugging.md)
 * [Documenting](docs/development/documenting.md)
 
-DRAFT 05
+DRAFT 06
