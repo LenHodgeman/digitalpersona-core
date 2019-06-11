@@ -1,18 +1,18 @@
 ---
 layout: default
-title: Core Components
+title: Examples
 has_toc: false  
 parent: Usage
 nav_order: 3
 ---
 
-# Examples
+### Examples
 
-## Build examples
+#### Build examples
 
 This example runs a simple NodeJS web site demonstrating scenarios of usage DP WAM from a browser.
 
-## Run examples
+#### Run examples
 
 To run from terminal:
 

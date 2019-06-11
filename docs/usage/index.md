@@ -7,7 +7,7 @@ permalink: /usage
 nav_order: 2
 ---
 
-# Usage
+### Usage
 
 DigitalPersona Device Access (DP DA) is a Windows service and a user agent application running
 locally on a user device and providing access to authentication devices like fingerprint readers,
@@ -20,3 +20,5 @@ allowing to implement composite authentication in web pages.
 * [Examples](examples.md)
 * [How-to](how-to.md)
 * [Reference](reference.md)
+
+Draft C16

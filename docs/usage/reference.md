@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Core Components
+title: Reference
 has_toc: false  
 parent: Usage
 nav_order: 5
 ---
 
-# Reference
+### Reference
 
 See reference documentation [here](./../../dist/api/doc/device-access.js.md).
 
