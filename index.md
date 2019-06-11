@@ -1,16 +1,25 @@
 ---
 layout: default
-title: DigitalPersona Core
+title: Core Components
+has_toc: false
 nav_order: 1
----  
-![](docs/assets/HID-logo.png)  
+---
 
-[Download PDF](docs\assets\DigitalPersona Access Management API Overview.pdf){: .btn }&nbsp; &nbsp; &nbsp; &nbsp;[View Repo](https://lenhodgeman.github.io/DP-Access-Management-API/){: .btn } &nbsp;&nbsp;[DRAFT A113]  
+[DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Core Components  
 
-### JavaScript Client for DigitalPersona Enrollment
+![](assets/HID-logo.png)  
 
-This library allows web browsers to enroll various authentication credentials using
-DigitalPersona Access Management services.
+### Core Components
+
+The DigitalPersona Core Components contains the core classes and functions shared by the DigitalPersona Access Management APIs.
+
+[Could use additional information here, but not duplicating or overlapping the main content on the Overview page.]
+
+To view the digitalpersona-core repo, click the following link.
+
+[Digitalpersona Core Components Repo](https://lenhodgeman.github.io/digitalpersona-core/)
+
+To view documentation on how to use the components, click on the following links.
 
 #### [Usage](docs/usage/index.md)
 * [Details](docs/usage/details.md)

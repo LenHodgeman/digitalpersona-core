@@ -1,3 +1,12 @@
+---
+layout: default
+title: Core Components
+has_toc: false  
+parent: Usage
+permalink: /usage  
+nav_order: 2
+---
+
 # Tutorial
 
 ## Getting started
@@ -10,7 +19,7 @@
 
 ### Bundle you project
 
-## Using Components 
+## Using Components
 
 ### Common components
 

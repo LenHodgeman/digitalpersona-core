@@ -1,6 +1,14 @@
+---
+layout: default
+title: Usage
+has_toc: false
+has_children: true  
+nav_order: 2
+---
+
 # Usage
 
-DigitalPersona Device Access (DP DA) is a Windows service and a user agent application running 
+DigitalPersona Device Access (DP DA) is a Windows service and a user agent application running
 locally on a user device and providing access to authentication devices like fingerprint readers,
 smarrtcard readers etc. These devices are not directly accessible from Javascript running in a browser.
 The `device-access.js` library communicates with the DP DA agent via a secure message channel,
