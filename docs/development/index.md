@@ -1,3 +1,11 @@
+---
+layout: default
+title: Development
+has_toc: false
+has_children: true
+permalink: /development  
+nav_order: 3
+---
 # Information for developers
 
 ## Recommended Tools
@@ -22,6 +30,7 @@ work to the whole world.
 * [Coding](coding.md)
 * [Building](building.md)
 * [Testing](testing.md)
+* [Debugging](debugging.md)  
 * [Documenting](documenting.md)
 * [Versioning](versioning.md)
 * [Deployment](deployment.md)

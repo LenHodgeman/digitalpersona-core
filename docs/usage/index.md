@@ -2,7 +2,8 @@
 layout: default
 title: Usage
 has_toc: false
-has_children: true  
+has_children: true
+permalink: /usage  
 nav_order: 2
 ---
 

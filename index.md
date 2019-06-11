@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Core Components
+title: Overview
 has_toc: false
 nav_order: 1
 ---

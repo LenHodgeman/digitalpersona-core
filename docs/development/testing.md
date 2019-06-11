@@ -1,3 +1,11 @@
+---
+layout: default
+title: Coding Guides
+has_toc: false
+parent: Development
+nav_order: 3
+---
+
 # Testing
 
 ## Running tests
