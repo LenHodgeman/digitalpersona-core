@@ -6,7 +6,7 @@ parent: Development
 nav_order: 1
 ---
 
-[DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Core Components / Development / Coding  
+###### [DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Core Components / Development / Coding  
 
 ![](../../docs/assets/HID-DPAM-Core.png)
 ### Coding Guides
