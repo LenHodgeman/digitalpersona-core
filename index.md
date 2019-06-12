@@ -5,11 +5,11 @@ has_toc: false
 nav_order: 1
 ---
 
-###### [DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Core Components / Overview  
+##### [DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Core Components / Overview  
 
 ![](docs/assets/HID-DPAM-Core.png)  
 
-### Overview
+## Overview
 
 The DigitalPersona Core Components contains the core classes and functions shared by the DigitalPersona Access Management APIs.
 
@@ -21,14 +21,14 @@ To view the digitalpersona-core repo, click the following link.
 
 To view documentation on how to use the components, click on these links.
 
-#### [Usage](docs/usage/index.md)
+### [Usage](docs/usage/index.md)
 * [Details](docs/usage/details.md)
 * [Tutorial](docs/usage/tutorial.md)
 * [Examples](docs/usage/examples.md)
 * [How-to](docs/usage/how-to.md)
 * [Reference](docs/usage/reference.md)
 
-#### [Development](docs/development/index.md)
+### [Development](docs/development/index.md)
 * [Building](docs/development/building.md)
 * [Testing](docs/development/testing.md)
 * [Versioning](docs/development/versioning.md)
@@ -36,5 +36,3 @@ To view documentation on how to use the components, click on these links.
 * [Coding](docs/development/coding.md)
 * [Debugging](docs/development/debugging.md)
 * [Documenting](docs/development/documenting.md)
-
-DRAFT 06
