@@ -7,14 +7,14 @@ nav_order: 4
 ---
 
 ![](../../docs/assets/HID-DPAM-Core.png)
-### Debugging
+## Debugging
 
-#### Prerequisites
+### Prerequisites
 
 To start debugging, you may need to install DPCA Workstation first, and your machine should
 have some authentication devices connected.
 
-#### Debugging from VS Code
+### Debugging from VS Code
 
 To debug from VS Code:
 

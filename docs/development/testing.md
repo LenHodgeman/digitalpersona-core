@@ -7,9 +7,9 @@ nav_order: 3
 ---
 
 ![](../../docs/assets/HID-DPAM-Core.png)
-### Testing
+## Testing
 
-#### Running tests
+### Running tests
 
 To run unit tests:
 * from terminal: run `npm run-script test`
@@ -17,7 +17,7 @@ To run unit tests:
 * if you have installed the [NPM Support for VS Code](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
   plugin: press `Ctrl-R, T`.
 
-#### Writing tests
+### Writing tests
 
 For unit tests, we use following tools:
 * [Karma](https://karma-runner.github.io/) as a test runner

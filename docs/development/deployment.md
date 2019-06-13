@@ -7,6 +7,6 @@ nav_order: 7
 ---
 
 ![](../../docs/assets/HID-DPAM-Core.png)
-### Deployment
+## Deployment
 
-#### NPM
+### NPM

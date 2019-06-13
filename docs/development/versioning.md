@@ -7,9 +7,9 @@ nav_order: 6
 ---
 
 ![](../../docs/assets/HID-DPAM-Core.png)
-### Package Versioning Guidelines
+## Package Versioning Guidelines
 
-#### Semantic Versioning
+### Semantic Versioning
 
 [Learn](https://semver.org/spec/v2.0.0.html) and follow strictly the SemVer schema:
 

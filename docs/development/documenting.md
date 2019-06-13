@@ -7,7 +7,7 @@ nav_order: 5
 ---
 
 ![](../../docs/assets/HID-DPAM-Core.png)
-### Documenting Guidelines
+## Documenting Guidelines
 
 All development documentation must be a part of the project source base,
 so they are

@@ -7,9 +7,9 @@ nav_order: 2
 ---
 
 ![](../../docs/assets/HID-DPAM-Core.png)
-### Making a build
+## Making a build
 
-#### Installing dependencies
+### Installing dependencies
 
 To get started, install dependencies first:
 
@@ -18,7 +18,7 @@ cd ./device-access.js
 yarn
 ```
 <a name="code"></a>
-#### Build code
+### Build code
 
 To build the library:
 
@@ -31,7 +31,7 @@ The build output (JavaScript files) will be put into following locations, accord
 
 
 <a name="documentation"></a>
-#### Build documentation
+### Build documentation
 
 To build API documentation:
 * from terminal: run `npm run-script docs`
