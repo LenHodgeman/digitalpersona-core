@@ -7,16 +7,16 @@ nav_order: 1
 ---
 
 ![](../../docs/assets/HID-DPAM-Core.png)
-### Details
+## Details
 
-#### External dependencies
+### External dependencies
 
 The library depends on a DigitalPersona Composite Autentication Workstation (DPCA Workstation)
 installed on the local machine. The DPCA Workstation provides a local Windows service and a user agent
 which communicate with the hardware and provide a secure messaging channel for Javascript running
 in a browser.
 
-#### Browser support
+### Browser support
 
 The library uses the ES6 `promise` browser API for asynchronous calls. If it is used in older browsers,
 you have to provide a "shim" adding the `promise` API to your target browser.

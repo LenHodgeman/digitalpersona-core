@@ -9,7 +9,7 @@ nav_order: 2
 ###### [DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Core Components / Usage / Overview  
 
 ![](../../docs/assets/HID-DPAM-Core.png)
-### Usage
+## Usage
 
 DigitalPersona Device Access (DP DA) is a Windows service and a user agent application running
 locally on a user device and providing access to authentication devices like fingerprint readers,

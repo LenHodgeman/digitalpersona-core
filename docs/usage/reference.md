@@ -7,7 +7,7 @@ nav_order: 5
 ---
 
 ![](../../docs/assets/HID-DPAM-Core.png)
-### Reference
+## Reference
 
 See reference documentation [here](./../../dist/api/doc/device-access.js.md).
 

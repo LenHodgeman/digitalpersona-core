@@ -7,13 +7,13 @@ nav_order: 3
 ---
 
 ![](../../docs/assets/HID-DPAM-Core.png)
-### Examples
+## Examples
 
-#### Build examples
+### Build examples
 
 This example runs a simple NodeJS web site demonstrating scenarios of usage DP WAM from a browser.
 
-#### Run examples
+### Run examples
 
 To run from terminal:
 
