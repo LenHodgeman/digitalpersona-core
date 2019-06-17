@@ -9,21 +9,16 @@ nav_order: 1
 ![](../../docs/assets/HID-DPAM-Core.png)
 ## Details
 
-### External dependencies
+The Core Components library consists of the following components.
 
-The library depends on a DigitalPersona Composite Autentication Workstation (DPCA Workstation)
-installed on the local machine. The DPCA Workstation provides a local Windows service and a user agent
-which communicate with the hardware and provide a secure messaging channel for Javascript running
-in a browser.
+- Encoders to convert data between different formats (UTF8, UTF16, Base64, Base64Url)  
 
-### Browser support
+- A base Credential type and derived classes for all supported credentials  
 
-The library uses the ES6 `promise` browser API for asynchronous calls. If it is used in older browsers,
-you have to provide a "shim" adding the `promise` API to your target browser.
+- JSON Web Token utilities and a list of supported claims  
 
-The library uses ES6 `fetch` browser API for HTTP conenction. If it is used in older browsers,
-you have to provide a "shim" adding the `fetch` API to your target browser.
+- A UserName class with support of different user name types (SAM, UPN, GUID etc.)  
 
-The library uses the `DPCA WebSDK` library which uses [`websocket` browser API](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
-for streaming authentication data and messages. Browsers not supporting `WebSocker Standard RFC 6455`
-are not supported.
+- A BioSample class and supporting utilities for biometric data transfer  
+
+- URL utilities
