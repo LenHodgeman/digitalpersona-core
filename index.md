@@ -11,7 +11,7 @@ nav_order: 1
 
 ## Overview
 
-The DigitalPersona Core Components contains the core classes and functions shared by the DigitalPersona Access Management APIs.
+The DigitalPersona Core Components is a  library that provides a set of core classes and functions for the DigitalPersona Web Access.
 
 [Could use additional information here, but not duplicating or overlapping the main content on the Overview page.]
 
