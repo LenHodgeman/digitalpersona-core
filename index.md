@@ -5,15 +5,13 @@ has_toc: false
 nav_order: 1
 ---
 
-###### [DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Core Components / Overview  1
+###### [DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Core Components / Overview  
 
 ![](docs/assets/HID-DPAM-Core.png)  
 
 ## Overview
 
 The DigitalPersona Core Components is a  library that provides a set of core classes and functions for the DigitalPersona Web Access.
-
-[Could use additional information here, but not duplicating or overlapping the main content on the Overview page.]
 
 To view the digitalpersona-core repo, click the following link.
 
