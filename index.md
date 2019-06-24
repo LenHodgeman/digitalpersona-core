@@ -15,7 +15,7 @@ The DigitalPersona Core Components is a  library that provides a set of core cla
 
 To view the digitalpersona-core repo, click the following link.
 
-[Digitalpersona Core Components Repo](https://lenhodgeman.github.io/digitalpersona-core/)
+[Digitalpersona Core Components repository](https://github.com/LenHodgeman/digitalpersona-core)
 
 See the following links for detailed documentation.
 
