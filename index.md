@@ -17,20 +17,39 @@ To view the digitalpersona-core repo, click the following link.
 
 [Digitalpersona Core Components Repo](https://lenhodgeman.github.io/digitalpersona-core/)
 
-To view documentation on how to use the components, click on these links.
+See the following links for detailed documentation.
 
-### [Usage](docs/usage/index.md)
-* [Details](docs/usage/details.md)
-* [Tutorial](docs/usage/tutorial.md)
-* [Examples](docs/usage/examples.md)
-* [How-to](docs/usage/how-to.md)
-* [Reference](docs/usage/reference.md)
-
-### [Development](docs/development/index.md)
-* [Building](docs/development/building.md)
-* [Testing](docs/development/testing.md)
-* [Versioning](docs/development/versioning.md)
-* [Deployment](docs/development/testing.md)
-* [Coding](docs/development/coding.md)
-* [Debugging](docs/development/debugging.md)
-* [Documenting](docs/development/documenting.md)
+<table style="width:40%;margin-left:auto;margin-right:auto;">
+  <tr>
+    <th style="width:20%" ALIGN="left"><A HREF="docs/usage/">Usage</A></th>
+    <th style="width:35%" ALIGN="left"><A HREF="docs/development/">Development</A></th>
+  </tr>
+  <tr>
+  <td valign="top" ><A HREF="docs/usage/details.html">Details</A></td>
+  <td><A HREF="docs/development/building.html">Building</A></td>
+  </tr>
+  <tr>
+    <td valign="top"><A HREF="docs/usage/tutorial.html">Tutorial</A></td>
+    <td valign="top"><A HREF="docs/development/testing.html">Testing</A></td>
+  </tr>
+  <tr>
+    <td valign="top"><A HREF="docs/usage/examples.html">Examples</A></td>
+    <td valign="top"><A HREF="docs/development/versioning.html">Versioning</A></td>
+  </tr>
+  <tr>
+    <td valign="top"><A HREF="docs/usage/how-to.html">How To ...</A></td>
+    <td valign="top"><A HREF="docs/development/deployment.html">Deployment</A></td>
+  </tr>
+  <tr>
+    <td valign="top"><A HREF="docs/usage/reference.html">Reference</A></td>
+    <td valign="top"><A HREF="docs/development/coding.html">Coding</A></td>
+  </tr>  
+  <tr>
+    <td valign="top">&nbsp;</td>
+    <td valign="top"><A HREF="docs/development/debugging.html">Debugging</A></td>
+  </tr>
+  <tr>
+    <td valign="top">&nbsp;</td>
+    <td valign="top"><A HREF="docs/development/documenting.html">Documenting</A></td>
+  </tr>        
+</table>
