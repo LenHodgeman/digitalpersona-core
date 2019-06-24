@@ -13,3 +13,11 @@ The DigitalPersona Access Management Core components  (@digitalpersona/core) is 
 - @digitalpersona/authentication  
 - @digitalpersona/enrollment
 - @digitalpersona/devices.
+
+#### Usage Guides
+
+* [Details](details.md)
+* [Tutorial](tutorial.md)
+* [Examples](examples.md)
+* [How To ...](how-to.md)  
+* [Reference](reference.md)
