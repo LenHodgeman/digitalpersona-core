@@ -17,7 +17,7 @@ See the following links for detailed documentation.
 
 <table style="width:40%;margin-left:auto;margin-right:auto;">
   <tr>
-    <th style="width:20%" ALIGN="left"><A HREF="https://lenhodgeman.github.io/digitalpersona-core/docs/usage/index.md">Usage</A></th>
+    <th style="width:20%" ALIGN="left"><A HREF="https://lenhodgeman.github.io/digitalpersona-core/docs/usage/index.html">Usage</A></th>
     <th style="width:35%" ALIGN="left"><A HREF="https://lenhodgeman.github.io/digitalpersona-core/docs/development/index.html">Development</A></th>
   </tr>
   <tr>
