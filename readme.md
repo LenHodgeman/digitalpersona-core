@@ -2,7 +2,7 @@
 layout: default
 title: ReadMe.md
 has_toc: false
-nav_order: 1
+nav_exclude: true
 ---
 
 ###### [DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Core Components / Overview  
@@ -15,7 +15,7 @@ The DigitalPersona Core Components is a  library that provides a set of core cla
 
 See the following links for detailed documentation.
 
-<table style="width:40%;margin-left:auto;margin-right:auto;">
+<table style="width:40%;">
   <tr>
     <th style="width:20%" ALIGN="left"><A HREF="https://lenhodgeman.github.io/digitalpersona-core/docs/usage/index.html">Usage</A></th>
     <th style="width:35%" ALIGN="left"><A HREF="https://lenhodgeman.github.io/digitalpersona-core/docs/development/index.html">Development</A></th>

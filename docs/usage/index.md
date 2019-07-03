@@ -18,6 +18,5 @@ The DigitalPersona Access Management Core components  (@digitalpersona/core) is 
 
 * [Details](details.md)
 * [Tutorial](tutorial.md)
-* [Examples](examples.md)
 * [How To ...](how-to.md)  
 * [Reference](reference.md)
